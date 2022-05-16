@@ -11,9 +11,9 @@
 - The first player to reach 100 points wins the game! 🏆
 
 <p align="center">
-<a href="https://alessiopisanoweb.github.io/guess-my-number/">View Demo</a>
+<a href="https://alessiopisanoweb.github.io/pig-game/">View Demo</a>
 ·
-<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new">Report Bug</a>
+<a href="https://github.com/alessiopisanoweb/pig-game/issues">Report Bug</a>
 ·
-<a href="https://github.com/alessiopisanoweb/guess-my-number/issues/new">Request Feature</a>
+<a href="https://github.com/alessiopisanoweb/pig-game/issues">Request Feature</a>
 </p>
