@@ -1,6 +1,6 @@
 <h1 align="center">Pig-Game 🐷</h1>
 
-[![pig.png](https://i.postimg.cc/DzYhn23N/pig.png)](https://postimg.cc/Y4gZxB9N)
+![](/img/desktop-version.png)
 
 <h2 align="center">GAME RULES </h2>
 
@@ -11,7 +11,7 @@
 - The first player to reach 100 points wins the game! 🏆
 
 <p align="center">
-<a href="https://alessiopisanoweb.github.io/pig-game/">View Demo</a>
+<a href="https://pig-game-ap.netlify.app/">View Demo</a>
 ·
 <a href="https://github.com/alessiopisanoweb/pig-game/issues">Report Bug</a>
 ·
